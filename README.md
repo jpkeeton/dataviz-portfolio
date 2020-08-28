@@ -1,5 +1,4 @@
-# Dataviz Portfolio
-Data Visualizations Projects
+# Data Visualizations Projects
 
 # About
 Setting up a Github Page to host some of my [#dataviz](https://twitter.com/hashtag/dataviz?lang=en) samples.
