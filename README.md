@@ -2,7 +2,8 @@
 Data Visualizations Projects
 
 # About
-Setting up a Github Page to host some of my #dataviz samples.
+Setting up a Github Page to host some of my [#dataviz](https://twitter.com/hashtag/dataviz?lang=en) samples.
+
 
 [Learn more about me here:](https://jeremypk.net/)
 
